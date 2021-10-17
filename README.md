@@ -1,4 +1,4 @@
-## 🌟[AsunaRobot](https://telegram.dog/CUTIE_ROBOT)🌟
+## 🌟[CUTIE_ROBOT](https://telegram.dog/CUTIE_ROBOT)🌟
 ### Telegram Group Manager Bot Written In Python Using Telethon+Pyrogram.
 
 <p align="center">
