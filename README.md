@@ -1,58 +1,61 @@
-## 🌟[CUTIE_ROBOT](https://telegram.dog/CUTIE_ROBOT)🌟
-### Telegram Group Manager Bot Written In Python Using Telethon+Pyrogram.
+<h1 align=center>😈EVIL BOT😈</h1>
+<img src = "https://telegra.ph/file/2345311d29a66213a9d98.jpg">
 
-<p align="center">
-    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/stargazers"><img src="https://img.shields.io/github/stars/KINGOFASURA/CUTE_ROBOT?label=Stars&style=flat-square&logo=github&color=teal" alt="Stars" /></a>
+## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shrvan42/EvilBot)</p>
+<H2 align=center>___________</h2>
+
+## Starting the bot.
+
+Once you've setup your database and your configuration (see below) is complete, simply run:
+
+`python3 -m EvilBot`
+
+
+### Configuration
+
+There are two possible ways of configuring your bot: a config.py file, or ENV variables.
+
+
+If you can't have a config.py file (EG on heroku), it is also possible to use environment variables.
+The following env variables are supported: 
+<p>
 </p>
+<h3 align=center>___________</h3>
 
- <a href="https://t.me/cute_robot_hai" alt="CUTEROBOT"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-CUTE_ROBOT On Telegram!-blue" /> </a>
+## Session String
 
+* [![Run on Repl.it](https://replit.com/badge/github/TeamUltroid/Ultroid)](http://generatestringsession.sandeep1709.repl.run/)
 
-<p align="center">
-    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT"> <img src="https://img.shields.io/github/repo-size/KINGOFASURA/CUTE_ROBOT?color=fuchsia&logo=github&logoColor=red&style=for-the-badge" /></a>
-    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/commits/DARK"> <img src="https://img.shields.io/github/last-commit/KINGOFASURA/CUTE_ROBOT?color=indigo&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/issues"> <img src="https://img.shields.io/github/issues/KINGOFASURA/CUTE_ROBOT?color=green&logo=github&logoColor=yellow&style=for-the-badge" /></a>
-    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/new/members"> <img src="https://img.shields.io/github/fork/KINGOFASURA/CUTE_ROBOT?color=olive&logo=github&logoColor=maroon&style=for-the-badge" /></a>  
-    <a href="https://pypi.org/project/telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=aqua&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
-</p>
+## Variables
 
-<p align="center">
-  <img src="https://telegra.ph/file/4977514f30ff13c11363b.jpg">
-</p>
+ - `API HASH AND ID`: Your Api Hash And Id from [here](https://my.telegram.org).
+ - `ENV`: Setting this to ANYTHING will enable env variables
+ - `TOKEN`: Your bot token.
+ - `OWNER_ID`: An integer of consisting of your owner ID
+ - `OWNER_USERNAME`: Your username
 
-## Requirements
+ - `DATABASE_URL`: Your database URL
+ - `MESSAGE_DUMP`: optional: a chat where your replied saved messages are stored, to stop people deleting their old 
+ - `LOAD`: Space separated list of modules you would like to load
+ - `NO_LOAD`: Space separated list of modules you would like NOT to load
+ - `WEBHOOK`: Setting this to ANYTHING will enable webhooks when in env mode
+ messages
+ - `URL`: The URL your webhook should connect to (only needed for webhook mode)
 
-- PTB >= 13.6
-- A [REDIS_URL](https://redis.com).
-- A [Telegram bot token](https://t.me/botfather).
-- A [MongoDB URI](https://telegra.ph/How-To-get-Mongodb-URI-04-06).
+ - `SUDO_USERS`: A space separated list of user_ids which should be considered sudo users
+ - `SUPPORT_USERS`: A space separated list of user_ids which should be considered support users (can gban/ungban,
+ nothing else)
+ - `WHITELIST_USERS`: A space separated list of user_ids which should be considered whitelisted - they can't be banned.
+ - `DONATION_LINK`: Optional: link where you would like to receive donations.
+ - `CERT_PATH`: Path to your webhook certificate
+ - `PORT`: Port to use for your webhooks
+ - `DEL_CMDS`: Whether to delete commands from users which don't have rights to use that command
+ - `STRICT_GBAN`: Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.
+ - `WORKERS`: Number of threads to use. 8 is the recommended (and default) amount, but your experience may vary.
+ __Note__ that going crazy with more threads wont necessarily speed up your bot, given the large amount of sql data 
+ accesses, and the way python asynchronous calls work.
+ - `BAN_STICKER`: Which sticker to use when banning people.
+ - `ALLOW_EXCL`: Whether to allow using exclamation marks ! for commands as well as /.
 
-
-# Run On Heroku
-
-### Easiest Way To Deploy On Heroku 
-
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGOFASURA/CUTIE_ROBOT/)
-
-```
-
-This Bot is Created by @Baapu_hu_mai, If your kanging this without fork at least give a credit to get a smile of my hard work.
- 
-👉 YoneRobot
-👉 SaitamaRobot 
-👉 TheRealPhoenixBot
-👉 DaisyX 
-👉 WilliamButcherBot
-👉THE_GHOST_RIDER
-
-$ git clone https://github.com/KINGOFASURA/CUTIE_ROBOT
-
-```
-
-
-
-## Note
-hii
-
-* soon
