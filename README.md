@@ -1,18 +1,18 @@
-## 🌟[AsunaRobot](https://telegram.dog/My_Asuna_Robot)🌟
+## 🌟[AsunaRobot](https://telegram.dog/CUTIE_ROBOT)🌟
 ### Telegram Group Manager Bot Written In Python Using Telethon+Pyrogram.
 
 <p align="center">
-    <a href="https://github.com/HuntingBots/AsunaRobot/stargazers"><img src="https://img.shields.io/github/stars/HuntingBots/AsunaRobot?label=Stars&style=flat-square&logo=github&color=teal" alt="Stars" /></a>
+    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/stargazers"><img src="https://img.shields.io/github/stars/KINGOFASURA/CUTE_ROBOT?label=Stars&style=flat-square&logo=github&color=teal" alt="Stars" /></a>
 </p>
 
- <a href="http://t.me/My_Asuna_Robot" alt="AsunaRobot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AsunaRobot On Telegram!-blue" /> </a>
+ <a href="https://t.me/cute_robot_hai" alt="CUTEROBOT"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-CUTE_ROBOT On Telegram!-blue" /> </a>
 
 
 <p align="center">
-    <a href="https://github.com/HuntingBots/AsunaRobot"> <img src="https://img.shields.io/github/repo-size/HuntingBots/AsunaRobot?color=fuchsia&logo=github&logoColor=red&style=for-the-badge" /></a>
-    <a href="https://github.com/HuntingBots/AsunaRobot/commits/prince"> <img src="https://img.shields.io/github/last-commit/HuntingBots/AsunaRobot?color=indigo&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/HuntingBots/AsunaRobot/issues"> <img src="https://img.shields.io/github/issues/HuntingBots/AsunaRobot?color=green&logo=github&logoColor=yellow&style=for-the-badge" /></a>
-    <a href="https://github.com/HuntingBots/AsunaRobot/network/members"> <img src="https://img.shields.io/github/forks/HuntingBots/AsunaRobot?color=olive&logo=github&logoColor=maroon&style=for-the-badge" /></a>  
+    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT"> <img src="https://img.shields.io/github/repo-size/KINGOFASURA/CUTE_ROBOT?color=fuchsia&logo=github&logoColor=red&style=for-the-badge" /></a>
+    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/commits/DARK"> <img src="https://img.shields.io/github/last-commit/KINGOFASURA/CUTE_ROBOT?color=indigo&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/issues"> <img src="https://img.shields.io/github/issues/KINGOFASURA/CUTE_ROBOT?color=green&logo=github&logoColor=yellow&style=for-the-badge" /></a>
+    <a href="https://github.com/KINGOFASURA/CUTIE_ROBOT/new/members"> <img src="https://img.shields.io/github/fork/KINGOFASURA/CUTE_ROBOT?color=olive&logo=github&logoColor=maroon&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=aqua&label=telethon&logo=python&logoColor=blue&style=for-the-badge" /></a>
 </p>
 
@@ -33,20 +33,20 @@
 ### Easiest Way To Deploy On Heroku 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HuntingBots/AsunaRobot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KINGOFASURA/CUTIE_ROBOT/)
 
 ```
 
-This Bot is Created by The_Ghost_Hunter, If your kanging this without fork at least give a credit to get a smile of my hard work.
+This Bot is Created by @Baapu_hu_mai, If your kanging this without fork at least give a credit to get a smile of my hard work.
  
 👉 YoneRobot
 👉 SaitamaRobot 
 👉 TheRealPhoenixBot
 👉 DaisyX 
 👉 WilliamButcherBot
+👉THE_GHOST_RIDER
 
-
-$ git clone https://github.com/HuntingBots/AsunaRobot
+$ git clone https://github.com/KINGOFASURA/CUTIE_ROBOT
 
 ```
 
@@ -55,7 +55,4 @@ $ git clone https://github.com/HuntingBots/AsunaRobot
 ## Note
 
 
-* [The Ghost Hunter](https://telegram.dog/The_Ghost_Hunter)
-* [Support](https://telegram.dog/AsunaRobotSupport)
-* [Discussion](https://telegram.dog/helpcentrebot1)
-* [Second Group](https://telegram.dog/fire_world_entertainment)
+* soon
