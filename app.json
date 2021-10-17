@@ -1,16 +1,16 @@
 {
-      "name": "Asuna Robot",
+      "name": "CUTE ROBOT",
       "description": "A Powerful  Telegram group management bot.",
       "keywords": [
          "telegram",
          "advance",
          "group",
          "manager",
-         "Asuna"
+         "CUTE"
       ],
     
-   "logo":    "https://telegra.ph/file/4977514f30ff13c11363b.jpg",  
-   "repository": "https://github.com/HuntingBots/https://github.com/HuntingBots/AsunaRobot",
+   "logo":    "https://https://te.legra.ph/file/7158e0e21ff8114c4b8a7.jpg",  
+   "repository": "https://github.com/HuntingBots/https://github.com/KINGOFASURA/CUTIE_ROBOT",
    "addons": [
           {
          "options": {
@@ -43,7 +43,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "1606221784"
+         "value": "2075782466"
      },
 
       "REDIS_URL": {
@@ -61,22 +61,22 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot with the @",
-         "value": ""
+         "value": "@Cutie_robot_bot"
       },
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": ""
+         "value": "2075782466"
       },
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "The_Ghost_Hunter"
+         "value": "Baapu_hu_mai"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "AsunaRobotSupport"
+         "value": "cute_robot_hai"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
@@ -94,12 +94,12 @@
      "EVENT_LOGS": {
          "description": "Event logs channel to note down important bot level events, recommend to make this public. ex: '-123456'",
          "required": true,
-         "value": "@AsunaLogUpdate"
+         "value": "cute_robot_hai"
       },
       "JOIN_LOGGER": {
          "description": "A channel where bot will print who added it to what group, useful during debugging or spam handling.",
          "required": true,
-         "value": "@AsunaLogUpdate"
+         "value": "@cute_robot_hai"
       },      
       "CASH_API_KEY": {
          "description": "Required for currency converter. Get yours from https://www.alphavantage.co/support/#api-key",
