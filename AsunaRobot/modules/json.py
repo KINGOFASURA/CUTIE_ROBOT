@@ -1,6 +1,6 @@
 import io
-from AsunaRobot.events import register
-from AsunaRobot import telethn as tbot
+from CUTE_ROBOT.events import register
+from CUTE_ROBOT import telethn as tbot
 from telethon import types
 from telethon import events
 from telethon.tl import functions
