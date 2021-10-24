@@ -1,16 +1,16 @@
 {
-      "name": "CUTE ROBOT",
+      "name": "XROBOT",
       "description": "A Powerful  Telegram group management bot.",
       "keywords": [
          "telegram",
          "advance",
          "group",
          "manager",
-         "CUTE"
+         "XROBOT"
       ],
     
-   "logo":    "https://https://te.legra.ph/file/7158e0e21ff8114c4b8a7.jpg",  
-   "repository": "https://github.com/HuntingBots/https://github.com/KINGOFASURA/CUTIE_ROBOT",
+   "logo":    "https://te.legra.ph/file/ee53c5046a47560e358ce.jpg",  
+   "repository": "https://github.com/KINGOFASURA/https://github.com/KINGOFASURA/CUTIE_ROBOT",
    "addons": [
           {
          "options": {
@@ -23,17 +23,17 @@
       "TOKEN": {
          "description": "Your bot token. Get one from @BotFather duh",
          "required": true,
-         "value": ""
+         "value": "2097885663:AAFaakLsrqcQQsq_0-36XDr4durhvJ8rTvQ"
       },
       "API_ID": {
          "description": "Get API_ID from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "3759094"
       },
       "API_HASH": {
          "description": "Get API_HASH from my.telegram.org, used for telethon based modules.",
          "required": true,
-         "value": ""
+         "value": "8088ae65cca904006f803f989691f0e9"
       },    
       "SQLALCHEMY_DATABASE_URI": {
          "description": "Your postgres sql db, empty this field if you dont have one.",
@@ -43,7 +43,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "2075782466"
+         "value": "2086596376"
      },
 
       "REDIS_URL": {
@@ -61,27 +61,27 @@
       },
       "BOT_USERNAME": {
          "description": "username of your bot with the @",
-         "value": "@Cutie_robot_bot"
+         "value": "@xrobot_bot"
       },
 
       "BOT_ID": {
          "description": "to get your bot_id using other bot or userbot",
-         "value": "2075782466"
+         "value": "2097885663"
       },
 
       "OWNER_USERNAME": {
          "description": "Your username without the @",
-         "value": "Baapu_hu_mai"
+         "value": "D3VILRAVANXOP"
       },
       "SUPPORT_CHAT": {
          "description": "Your Telegram support group chat username where your users will go and bother you with shit But be like: MyGroupChatUsernameBlah. If this ever points to masha support than consider you made an enemy.",
          "required": true,
-         "value": "cute_robot_hai"
+         "value": "STACY_SUPPORT"
       },
       "MONGO_DB_URI": {
          "description": "Required for database connections.",
          "required": true,
-         "value": ""
+         "value": "mongodb+srv://Sahilop:sahilop0@cluster0.bnt90.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
       },
       "IBM_WATSON_CRED_URL": {
          "description": "This is required for the speech to text module. Get your USERNAME from https://console.bluemix.net/docs/services/speech-to-text/getting-started.html",
@@ -137,7 +137,7 @@
          "description": "Enforce gbans across new groups as well as old groups. When a gbanned user talks, he will be banned.",
          "value": "True"
       },
-      "DRAGONS": {
+      "RAVANS": {
          "description": "A space separated list of user IDs who you want to assign as sudo users.",
          "required": false,
          "value": ""
