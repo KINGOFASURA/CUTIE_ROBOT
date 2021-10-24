@@ -74,16 +74,16 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = """
-`Hello` [🧚‍♀️](https://telegra.ph/file/7274507d4da6ff6f3785d.mp4) `My name is` *Asuna*
+`Hello` [🧚‍♀️](https://te.legra.ph/file/ee53c5046a47560e358ce.jpg) `My name is` *Asuna*
 `I am powerful  group management bot.
-Build by The Ghost Hunter for Your Telegram Group , I specialize in managing Entertainment type groups.
+Build by D3VILRAVANXOP for Your Telegram Group , I specialize in managing Entertainment type groups.
 You can find my list of available commands with! Hit` *🔰Commands*   
 """
 
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/My_Asuna_Robot?startgroup=true"
+            text="➕️ ADD ME TO YOUR GROUP ➕️", url="t.me/STACY_SUPPORT?Startgroup=true"
         ),
     ],
     [
@@ -92,45 +92,45 @@ buttons = [
     ],
     [
         InlineKeyboardButton(
-            text="🤴 OWNER", url="https://telegram.dog/The_Ghost_Hunter"
+            text="🤴 OWNER", url="https://telegram.dog/D3VILRAVANXOP"
         ),
     ],
     [
         InlineKeyboardButton(
             text="📺 Star Wolrd Entertainment",
-            url="https://telegram.dog/fire_world_entertainment",
+            url="https://telegram.dog/STACY_SUPPORT",
         ),
     ],
     [
-        InlineKeyboardButton(text="🗨️ Logis", url="https://t.me/AsunaLogUpdate"),
+        InlineKeyboardButton(text="🗨️ Logis", url="https://t.me/STACY_UPDATES"),
         InlineKeyboardButton(
-            text="👥 SUPPORT", url="https://telegram.dog/AsunaRobotSupport"
+            text="👥 SUPPORT", url="https://telegram.dog/STACY_SUPPORT"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="💾 Source Code", url="https://github.com/HuntingBots/AsunaRobot"
+            text="💾 Source Code", url="https://github.com/"
         ),
     ],
 ]
 
 
 HELP_STRINGS = """
-`Hi.. I'm` [Asuna ⚙️]("https://telegra.ph/file/8cab4bb122cf76702b06d.jpg") 
+`Hi.. I'm` [Asuna ⚙️]("https://te.legra.ph/file/ee53c5046a47560e358ce.jpg") 
 `Click on the buttons below to get documentation about specific modules..`"""
 
 
-ASUNA_IMG = "https://telegra.ph/file/7e61fe06a9c02747249b4.png"
+XROBOT_IMG = "https://te.legra.ph/file/ee53c5046a47560e358ce.jpg"
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
- You can support the project via [Paypal](#) or by contacting @The_Ghost_Hunter\
+ You can support the project via [Paypal](#) or by contacting @D3VILRAVANXOP\
  Supporting isnt always financial! \
  Those who cannot provide monetary support are welcome to help us develop the bot at ."""
 
 IMPORTED = {}
 MIGRATEABLE = []
 HELPABLE = {}
-STATS = []
+STATS = 
 USER_INFO = []
 DATA_IMPORT = []
 DATA_EXPORT = []
@@ -370,7 +370,7 @@ def asuna_about_callback(update, context):
     query = update.callback_query
     if query.data == "asuna_":
         query.message.edit_text(
-            text=""" ❗ I'm *Asuna*, a powerful group management bot built to help you manage your group easily.
+            text=""" ❗ I'm *XROBOT*, a powerful group management bot built to help you manage your group easily.
                  \n❍ I can restrict users.
                  \n❍ I can greet users with customizable welcome messages and even set a group's rules.
                  \n❍ I have an advanced anti-flood system.
@@ -378,15 +378,15 @@ def asuna_about_callback(update, context):
                  \n❍ I have a note keeping system, blacklists, and even predetermined replies on certain keywords.
                  \n❍ I check for admins' permissions before executing any command and more stuffs
                  \n\n_shasa's licensed under the GNU General Public License v3.0_
-                 \nHere is the [💾Repository](https://github.com/HuntingBots/AsunaRobot).
-                 \n\nIf you have any question about *Asuna*, let us know at .""",
+                 \nHere is the [💾Repository](https://github.com/).
+                 \n\nIf you have any question about *XROBOT*, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[InlineKeyboardButton(text="Back", callback_data="asuna_back")]]
             ),
         )
-    elif query.data == "asuna_back":
+    elif query.data == "XROBOT_back":
         query.message.edit_text(
             PM_START_TEXT,
             reply_markup=InlineKeyboardMarkup(buttons),
@@ -400,8 +400,8 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..👸 I'm *Asuna*
-                 \nHere is the [Source Code](https://github.com/HuntingBots/AsunaRobot) .""",
+            text=""" Hi..👸 I'm *XROBOT*
+                 \nHere is the [Source Code](https://github.com/) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
